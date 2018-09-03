@@ -1,3 +1,4 @@
 /**
-* This is a package names*/
+ * This is a package names.
+ */
 package com.example;
